@@ -1,4 +1,4 @@
-# Electric Vehicle Population Analysis
+# Electric Vehicle Population Analysis 🚗⚡
 
 ## Project Overview
 This project involves analyzing a dataset of over 150,000 electric vehicle (EV) records to uncover trends in adoption, market share, and performance metrics. Using tools like Excel for preprocessing and Tableau for visualization, the project provides actionable insights into the electric vehicle landscape.
